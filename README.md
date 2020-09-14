@@ -3,9 +3,7 @@
 
 
 ## Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RA1NO3O&show_icons=true&theme=dracula)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RA1NO3O&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![RA1NO3O's github stats](https://github-readme-stats.vercel.app/api?username=RA1NO3O)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
