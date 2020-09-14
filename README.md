@@ -1,4 +1,12 @@
-### Hi there 👋
+### こんにちは 👋
+
+
+
+## Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=argraur&show_icons=true&theme=dracula)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argraur&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RA1NO3O/RA1NO3O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
