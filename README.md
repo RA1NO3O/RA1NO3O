@@ -1,6 +1,6 @@
 ### こんにちは 👋
 
-大学生です。
+flutter開発者です。
 
 ## Stats
 ![RA1NO3O's github stats](https://github-readme-stats.vercel.app/api?username=RA1NO3O&show_icons=true)
