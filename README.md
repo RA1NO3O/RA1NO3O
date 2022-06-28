@@ -7,8 +7,22 @@
 ## Stats
 ![RA1NO3O's github stats](https://github-readme-stats.vercel.app/api?username=RA1NO3O&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA1NO3O&show_icons=true&layout=compact)
+```dart
+class RA1NO3O extends AppDeveloper{
+  final int age;
 
+  const RA1NO3O(Key? key,{this.age=22}):assert(age<=85),super(key: key);
+  
+  const factory RA1NO3O.immortal({required int age})=_ImmortalRA1NO3O;
 
+}
+
+class _ImmortalRA1NO3O extends RA1NO3O{
+  //TODO: implement _ImmortalRA1NO3O
+  const _VitrualRA1NO3O(Key? key,{required int age}):super(key: key);
+}
+```
+> GL,HF
 <!--
 **RA1NO3O/RA1NO3O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
