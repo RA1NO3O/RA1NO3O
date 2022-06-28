@@ -1,6 +1,7 @@
 ### こんにちは 👋
 
-flutter開発者です。
+日本語勉强中、ネット/Webサイト管理者、PCメイテナ、Tech製品好き、RPG/Rougelike/FPS/音ゲーマー、ゲーム＞現実
+よろしくお願いします。
 
 ## Stats
 ![RA1NO3O's github stats](https://github-readme-stats.vercel.app/api?username=RA1NO3O&show_icons=true)
