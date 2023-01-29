@@ -1,10 +1,10 @@
 > Armmor yourself.
 ## For Apple Silicon of macOS users:
 ### Install iOS apps/games which is not available for macOS
-* Get and Install [PlayCover](https://playcover.io) and [Sideloadly](https://sideloadly.io)
-* Join [Appocalypse: Decrypted IPAs](https://discord.gg/8SXCXbzzBe) Discord Server
+* Get and Install [PlayCover](https://playcover.io)
+* Visit http://decrypt.day
 ### Remote stream gaming from WindowsPC which is use NVIDIA GPU
-* Get [Moonlight](https://moonlight-stream.org) and set your PC onto Internet(Optional)
+* Get [Moonlight](https://moonlight-stream.org)
 ----------------------------------------------------------------------------------------------
 ## For Windows users:
 ### Get decrypted Creative software
