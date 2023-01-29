@@ -2,7 +2,7 @@
 ## For Apple Silicon of macOS users:
 ### Install iOS apps/games which is not available for macOS
 * Get and Install [PlayCover](https://playcover.io)
-* Visit http://decrypt.day
+* Visit https://decrypt.day
 ### Remote stream gaming from WindowsPC which is use NVIDIA GPU
 * Get [Moonlight](https://moonlight-stream.org)
 ----------------------------------------------------------------------------------------------
