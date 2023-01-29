@@ -1,0 +1,14 @@
+- Desktop: HP™ OMEN 45L
+  - CPU: 12th-Gen Intel© Core™ i7-12700K @ 3.6GHz
+  - GPU: NVIDIA™ GeForce RTX 3080Ti (HP OEM)
+  - RAM: Kingston™ FURY Beast DDR4 RGB 16GBx2 @ 3733MHz
+  - SSD: WD™ SN850 PCIe 4.0 1TBx2
+  - HDD: Seagate 1TB(64MB Cache) 7200RPM
+- Mouse: Logitech™ G Pro Wireless SuperLight
+- Monitor: ASUS™ VG28UQL1A 28'' (4K@144Hz HDR400)
+- Keyboard: HyperX™ Alloy Origins Core (Aqua 97)
+- Joystick: XBOX™ Elite2 Core Controller
+- Headphones: Apple™ Airpods Pro (2nd-generation)
+- Phone: Apple™ iPhone14 Pro Max 128GB (Silver)
+- Tablet: Apple™ 11'' iPad Pro 128GB (3rd-generation)
+- Laptop: Apple™ 14'' MacBook Pro 512GB (10-Core M1 Pro)
