@@ -1,7 +1,7 @@
 - Desktop: [HP™ OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
   - CPU: 12th-Gen Intel© Core™ i7-12700K @ 3.6GHz
   - GPU: NVIDIA™ GeForce RTX 3080Ti (HP OEM)
-  - RAM: Kingston™ FURY Beast DDR4 RGB 16GBx2 @ 3733MHz
+  - RAM: Kingston™ FURY Beast DDR4 RGB 16GBx2 @ 3200MHz
   - SSD: WD™ SN850 PCIe 4.0 1TBx2
   - HDD: Seagate 1TB(64MB Cache) 7200RPM
 - Mouse: [Logitech™ G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) (White)
