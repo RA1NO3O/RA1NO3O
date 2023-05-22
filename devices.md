@@ -13,4 +13,4 @@
   - [Apple™ Airpods Pro](https://www.apple.com/airpods-pro/) (2nd-generation)
 - Phone: [Apple™ iPhone14 Pro Max](https://www.apple.com/iphone-14-pro/) 128GB (Silver)
 - Tablet: [Apple™ 11'' iPad Pro](https://www.apple.com/ipad-pro/) 128GB (3rd-generation)
-- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro/) 512GB (10-Core M1 Pro)
+- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) 512GB (10-Core M1 Pro)
