@@ -11,7 +11,7 @@
 class RA1NO3O extends AppDeveloper{
   final int age;
 
-  const RA1NO3O(Key? key,{this.age=22}):assert(age<=85),super(key: key);
+  const RA1NO3O(Key? key,{this.age=23}):assert(age<=85),super(key: key);
   
   const factory RA1NO3O.immortal({required int age})=_ImmortalRA1NO3O;
 
