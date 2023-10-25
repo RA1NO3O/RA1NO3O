@@ -12,6 +12,6 @@
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
   - [Apple™ Airpods Pro](https://www.apple.com/airpods-pro/) (2nd-generation&Lightning Charging case)
-- Phone: [Apple™ iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) 256GB (Silver)
+- Phone: [Apple™ iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) 256GB (White Titanium)
 - Tablet: [Apple™ 11'' iPad Pro](https://www.apple.com/ipad-pro/) 128GB (3rd-generation)
 - Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) 512GB (10-Core M1 Pro)
