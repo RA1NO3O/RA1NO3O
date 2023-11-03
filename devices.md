@@ -1,3 +1,4 @@
+## These're the devices I'm using.
 - Console: [SONY™ Playstation 5](https://playstation.com)
 - Desktop: [HP™ OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
   - CPU: 12th-Gen Intel© Core™ i7-12700K @ 3.6GHz
