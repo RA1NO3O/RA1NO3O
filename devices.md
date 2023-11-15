@@ -14,7 +14,7 @@
 - Joystick: [Xbox™ Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
-  - [Apple™ Airpods Pro](https://www.apple.com/airpods-pro/) (2nd-generation&Lightning Charging case)
+  - [Apple™ Airpods Pro](https://www.apple.com/airpods-pro/) with Lightning Charging case (2nd-generation)
 - Phone: [Apple™ iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) 256GB (White Titanium)
-- Tablet: [Apple™ 11'' iPad Pro](https://www.apple.com/ipad-pro/) 128GB (3rd-generation)
-- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) 512GB (12-Core M3 Pro)
+- Tablet: [Apple™ 11'' iPad Pro](https://www.apple.com/ipad-pro/) 128GB (3rd-generation Silver)
+- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black 512GB M3Pro(12 Core CPU+18 Core GPU)
