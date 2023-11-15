@@ -7,7 +7,9 @@
   - SSD: WD™ SN850 PCIe 4.0 1TBx2
   - HDD: Seagate 1TB(64MB Cache) 7200RPM
 - Mouse: [Logitech™ G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) (White)
-- Monitor: [ASUS™ VG28UQL1A 28''](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg28uql1a/) (4K@144Hz HDR400)
+- Monitors:
+  - [ASUS™ VG28UQL1A 28''](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg28uql1a/) (4K@144Hz HDR400)
+  - [Lecoo M2721PL 27''](https://item.m.jd.com/product/10062746266185.html) (4K@60Hz HDR400)
 - Keyboard: [HyperX™ Alloy Origins Core](https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard?loc=US&variant=41077971288221) (Aqua 97)
 - Joystick: [Xbox™ Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
 - Headphones:
@@ -15,4 +17,4 @@
   - [Apple™ Airpods Pro](https://www.apple.com/airpods-pro/) (2nd-generation&Lightning Charging case)
 - Phone: [Apple™ iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) 256GB (White Titanium)
 - Tablet: [Apple™ 11'' iPad Pro](https://www.apple.com/ipad-pro/) 128GB (3rd-generation)
-- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) 512GB (10-Core M1 Pro)
+- Laptop: [Apple™ 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) 512GB (12-Core M3 Pro)
