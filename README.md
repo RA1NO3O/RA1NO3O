@@ -1,4 +1,4 @@
-### こんにちは 👋
+### こんにちは 👋![](https://komarev.com/ghpvc/?username=RA1NO3O&color=blue&style=flat-square)
 
 日本語勉强中、ネット/Webサイト管理者、PCメイテナ、Tech製品好き、RPG/Rougelike/FPS/音ゲーマー、ゲーム＞現実
 
