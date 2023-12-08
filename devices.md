@@ -11,7 +11,7 @@
   - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
   - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
   - SSD: WD SN850 PCIe 4.0 1TBx2
-  - HDD: Seagate 1TB(64MB Cache 7200RPM)
+  - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
   - [ASUS VG28UQL1A](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg28uql1a/) 28''(4K@144Hz HDR400)
@@ -28,7 +28,11 @@
 - Mouse: [Logitech G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
+  - SSD: [WD SN850P PCIe 4.0 2TB](https://direct.playstation.com/en-us/buy-accessories/2tb-wd-black-sn850p-nvme-ssd-for-ps5-consoles)
 
-- Joystick: [Xbox Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
+- Joysticks:
+  -  [Xbox Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
+  -  [SONY Dualsense wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller)
+  -  [SONY Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
 
 - Wearable: [Apple Watch Series 7](https://apple.com/watch) 45mm Midnight
