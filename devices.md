@@ -10,7 +10,9 @@
   - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
   - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
   - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
-  - SSD: WD SN850 PCIe 4.0 1TBx2
+  - SSD:
+    - WD SN850 PCIe 4.0 1TB
+    - Seagate FireCuda 530 2TB
   - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
@@ -28,7 +30,7 @@
 - Mouse: [Logitech G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
-  - SSD: [WD SN850P PCIe 4.0 2TB](https://direct.playstation.com/en-us/buy-accessories/2tb-wd-black-sn850p-nvme-ssd-for-ps5-consoles)
+  - SSD: WD SN850 PCIe 4.0 2TB
 
 - Joysticks:
   -  [Xbox Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
