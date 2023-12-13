@@ -30,11 +30,13 @@
 - Mouse: [Logitech G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
-  - SSD: WD SN850 PCIe 4.0 2TB
+  - SSD: WD SN850 PCIe 4.0 1TB
 
 - Joysticks:
+  -  [SONY Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
   -  [Xbox Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
   -  [SONY Dualsense wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller)
-  -  [SONY Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
 
-- Wearable: [Apple Watch Series 7](https://apple.com/watch) 45mm Midnight
+- Wearable:
+  - [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Titanium
+  - [Apple Watch Series 7](https://apple.com/watch) 45mm Aluminum Midnight
