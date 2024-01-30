@@ -3,6 +3,7 @@
 - Phone: [Apple iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) White Titanium(256GB)
 
 - Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU+18 Core GPU M3Pro 18GB RAM+512GB SSD)
+  - External SSD: WD_BLUE SN580 2TB@40Gbps
 
 - Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Silver(128GB 3rd-generation)
 
@@ -11,8 +12,7 @@
   - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
   - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
   - SSD:
-    - WD SN850 PCIe 4.0 1TB
-    - Seagate FireCuda 530 2TB
+    - WD SN850 PCIe 4.0 1TB x2
   - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
@@ -30,7 +30,7 @@
 - Mouse: [Logitech G Pro Wireless SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
-  - SSD: WD SN850 PCIe 4.0 1TB
+  - SSD: WD SN850P PCIe 4.0 2TB
 
 - Joysticks:
   -  [SONY Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
