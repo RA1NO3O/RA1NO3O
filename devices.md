@@ -11,8 +11,7 @@
   - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
   - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
   - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
-  - SSD:
-    - WD SN850 PCIe 4.0 1TB x2
+  - SSD: WD SN850 PCIe 4.0 1TB x2
   - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
@@ -37,6 +36,4 @@
   -  [Xbox Elite2 Core Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-elite-wireless-controller-series-2-core)
   -  [SONY Dualsense wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller)
 
-- Wearable:
-  - [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Titanium
-  - [Apple Watch Series 7](https://apple.com/watch) 45mm Aluminum Midnight
+- Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Titanium
