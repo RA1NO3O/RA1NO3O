@@ -20,7 +20,7 @@
   
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
-  - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with Lightning charging case (2nd-generation)
+  - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with USB-C charging case (2nd-generation)
   
 - Keyboards: 
     - [HyperX Alloy Origins Core](https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard?loc=US&variant=41077971288221) Aqua 97
