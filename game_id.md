@@ -1,4 +1,5 @@
 ## These're my game IDs:
+- [Call of Duty](https://callofduty.com): RA1NO3O#3120661
 - [プロセカ](https://pjsekai.sega.jp): 6479525479460877
 - [ガルパ](https://bang-dream.bushimo.jp): 98915698
 - [ブルアカ](https://bluearchive.jp): ASATXRRT
