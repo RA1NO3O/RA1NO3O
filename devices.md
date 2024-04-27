@@ -26,7 +26,7 @@
     - [HyperX Alloy Origins Core](https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard?loc=US&variant=41077971288221) Aqua 97
     - [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
   
-- Mouse: [Logitech G Pro X SuperLight 2](https://www.logitechg.com/en-us/products/gaming-mice/pro-x2-superlight-wireless-mouse.910-006628.html) Black
+- Mouse: [Logitech G Pro X SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005878.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
   - SSD: WD SN850P PCIe 4.0 2TB
