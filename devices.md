@@ -5,7 +5,7 @@
 - Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU+18 Core GPU M3Pro 18GB RAM+512GB SSD)
   - External SSD: WD_BLUE SN580 2TB@40Gbps
 
-- Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Silver(128GB 3rd-generation)
+- Tablet: [Apple 11'' iPad Pro M4](https://www.apple.com/ipad-pro/) Space Black(256GB)
 
 - Desktop: [HP OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
   - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
