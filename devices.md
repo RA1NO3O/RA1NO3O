@@ -15,7 +15,7 @@
   - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
-  - [ASUS VG28UQL1A](https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg28uql1a/) 28''(4K@144Hz HDR400)
+  - [Philips 42M2N8900](https://www.usa.philips.com/c-p/42M2N8900_27/evnia-gaming-monitor-oled-gaming-monitor) 42''(4K@138Hz OLED)
   - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
   
 - Headphones:
