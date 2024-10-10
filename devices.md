@@ -1,6 +1,6 @@
 ## These're the devices I'm using:
 
-- Phone: [Apple iPhone 15 Pro Max](https://www.apple.com/iphone-15-pro/) White Titanium(256GB)
+- Phone: [Apple iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/) White Titanium(256GB)
 
 - Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU+18 Core GPU M3Pro 18GB RAM+512GB SSD)
   - External SSD: WD_BLUE SN580 2TB@40Gbps
