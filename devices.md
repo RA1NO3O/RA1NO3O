@@ -7,12 +7,16 @@
 
 - Tablet: [Apple 11'' iPad Pro M4](https://www.apple.com/ipad-pro/) Space Black(256GB)
 
-- Desktop: [HP OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
-  - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
-  - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
-  - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
-  - SSD: WD SN850 PCIe 4.0 1TB x2
-  - HDD: Seagate 2TB(64MB Cache 7200RPM)
+- Desktop:
+  - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
+  - [HP OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
+    - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
+    - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
+    - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
+    - SSD:
+      - WD SN850 PCIe 4.0 1TB
+      - WD SN850X PCIe 4.0 2TB
+    - HDD: Seagate 2TB(64MB Cache 7200RPM)
 
 - Monitors:
   - [Philips 42M2N8900](https://www.usa.philips.com/c-p/42M2N8900_27/evnia-gaming-monitor-oled-gaming-monitor) 42''(4K@138Hz OLED)
