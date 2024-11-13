@@ -2,9 +2,9 @@
 
 - Phone: [Apple iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/) White Titanium(256GB)
 
-- Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU+18 Core GPU M3Pro 18GB RAM+512GB SSD)
+- Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU + 18 Core GPU M3Pro 18GB RAM + 512GB SSD)
 
-- Tablet: [Apple 11'' iPad Pro M4](https://www.apple.com/ipad-pro/) Space Black(256GB)
+- Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Space Black(M4 256GB)
 
 - Desktop:
   - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
@@ -19,7 +19,7 @@
       - WD_BLACK SN850X PCIe 4.0 2TB
     - HDD: Seagate 2TB(64MB Cache 7200RPM)
     - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Black
-    - [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
+    - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
 
 - Monitors:
   - [Philips 42M2N8900](https://www.usa.philips.com/c-p/42M2N8900_27/evnia-gaming-monitor-oled-gaming-monitor) 42''(4K@138Hz OLED)
@@ -28,17 +28,9 @@
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
   - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with USB-C charging case (2nd-generation)
-  
-- Keyboards: 
-    - [HyperX Alloy Origins Core](https://hyperx.com/products/hyperx-alloy-origins-core-mechanical-gaming-keyboard?loc=US&variant=41077971288221) Aqua 97
-- Mouse:
-  - [Logitech G Pro X SuperLight](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005878.html) White
 
 - Console: [SONY Playstation 5](https://playstation.com)
   - SSD: WD SN850P PCIe 4.0 2TB
-
-- Joysticks:
-  -  [SONY Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
-  -  [SONY Dualsense wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller)
+  - [Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
 
 - Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Titanium
