@@ -22,7 +22,7 @@
     - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
 
 - Monitors:
-  - [Philips 42M2N8900](https://www.usa.philips.com/c-p/42M2N8900_27/evnia-gaming-monitor-oled-gaming-monitor) 42''(4K@138Hz OLED)
+  - SANC OM32UPro
   - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
   
 - Headphones:
