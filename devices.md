@@ -10,14 +10,13 @@
   - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
     - Apple Magic Trackpad & Keyboard
     - SSD(USB4): WD_BLUE SN580 2TB@40Gbps
-  - [HP OMEN 45L](https://www.omen.com/us/en/desktops/omen-45l.html)
-    - CPU: 12th-Gen Intel Core i7-12700K @3.6GHz
-    - GPU: NVIDIA GeForce RTX 3080Ti (HP OEM)
-    - RAM: Kingston FURY Beast DDR4 RGB 16GBx2 @3200MHz
+  - ASUS PRIME X870-P WIFI D5
+    - CPU: AMD Ryzen 9800X3D
+    - GPU: NVIDIA GeForce RTX 4070Ti Super
+    - RAM: G-Skill ARGB 16GB x2 @6400MHz
     - SSD:
-      - WD_BLACK PCIe 4.0 1TB
+      - PREDATOR N7000 PCIe 4.0 1TB
       - WD_BLACK SN850X PCIe 4.0 2TB
-    - HDD: Seagate 2TB(64MB Cache 7200RPM)
     - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Black
     - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
 
