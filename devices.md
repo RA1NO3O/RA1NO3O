@@ -10,13 +10,14 @@
   - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
     - Apple Magic Trackpad & Keyboard
     - SSD(USB4): WD_BLUE SN580 2TB@40Gbps
-  - ASUS PRIME X870-P WIFI D5
-    - CPU: AMD Ryzen 9800X3D
-    - GPU: NVIDIA GeForce RTX 4070Ti Super
-    - RAM: G-Skill ARGB 16GB x2 @6400MHz
+  - [ASUS PRIME X870-P WIFI D5](https://www.asus.com/motherboards-components/motherboards/prime/prime-x870-p-wifi/)
+    - CPU: [AMD Ryzen 7 9800X3D](https://www.amd.com/en-us/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
+    - GPU: [NVIDIA GeForce RTX 4070Ti SUPER](https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx4070tis-o16g-gaming/) ASUS TUF Gaming
+    - RAM: Acer Predator Vesta II RGB DDR5 16GB x2 @6000MHz C28
     - SSD:
-      - PREDATOR N7000 PCIe 4.0 1TB
-      - WD_BLACK SN850X PCIe 4.0 2TB
+      - WD_BLACK SN850X @PCIe 5.0 2TB
+      - PREDATOR N7000 @PCIe 4.0 1TB
+      - WD_BLACK SN850 @PCIe 4.0 1TB
     - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Black
     - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
 
