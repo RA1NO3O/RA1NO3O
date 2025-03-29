@@ -22,7 +22,7 @@
     - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
 
 - Monitors:
-  - SANC OM32UPro
+  - SANC OM32UPro 32''(4K@240Hz HDR400 True Black)
   - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
   
 - Headphones:
@@ -33,4 +33,4 @@
   - SSD: WD SN850P PCIe 4.0 2TB
   - [Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
 
-- Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Titanium
+- Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Natural Titanium
