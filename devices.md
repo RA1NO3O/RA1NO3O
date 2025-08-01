@@ -2,8 +2,6 @@
 
 - Phone: [Apple iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/) White Titanium(256GB)
 
-- Laptop: [Apple 14'' MacBook Pro](https://www.apple.com/macbook-pro-14-and-16/) Space black(12 Core CPU + 18 Core GPU M3Pro 18GB RAM + 512GB SSD)
-
 - Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Space Black(M4 256GB)
 
 - Desktop:
