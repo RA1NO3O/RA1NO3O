@@ -7,7 +7,7 @@
 - Desktop:
   - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
     - Apple Magic Trackpad & Keyboard
-    - SSD(USB4): WD_BLUE SN580 2TB@40Gbps
+    - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
   - [ASUS PRIME X870-P WIFI D5](https://www.asus.com/motherboards-components/motherboards/prime/prime-x870-p-wifi/)
     - CPU: [AMD Ryzen 7 9800X3D](https://www.amd.com/en-us/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
     - GPU: [NVIDIA GeForce RTX 4070Ti SUPER](https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx4070tis-o16g-gaming/) ASUS TUF Gaming
@@ -16,19 +16,20 @@
       - WD_BLACK SN850X @PCIe 5.0 2TB
       - PREDATOR N7000 @PCIe 4.0 1TB
       - WD_BLACK SN850 @PCIe 4.0 1TB
+      - SSD(USB4): WD_BLUE SN580 2TB@40Gbps
     - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Black
-    - Keyboard: [Discord TKL Mechanical Keyboard](https://discordmerch.com/products/discord-tkl-mechanical-keyboard) Dark theme - Gateron Reds(Linear)
-
-- Monitors:
-  - SANC OM32UPro 32''(4K@240Hz HDR400 True Black)
-  - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
+    - Keyboard: [NuPhy Field75 HE](https://nuphy.com/collections/he-keyboards/products/nuphy-field75-he-magnetic-switch-gaming-keyboard?variant=41482716938349) Magnetic White Switch
+    - Monitor: SANC OM32UPro 32''(4K@240Hz HDR400 True Black)
   
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
   - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with USB-C charging case (2nd-generation)
 
-- Console: [SONY Playstation 5](https://playstation.com)
-  - SSD: WD SN850P PCIe 4.0 2TB
-  - [Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
+- Consoles:
+  - [SONY Playstation 5](https://playstation.com)
+    - SSD: WD SN850P PCIe 4.0 2TB
+    - [Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
+  - [Nintendo Switch 2](https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/)
+    - [Nintendo Switch 2 Pro Controller](https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/)
 
 - Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Natural Titanium
