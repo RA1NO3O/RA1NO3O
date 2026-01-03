@@ -23,7 +23,7 @@
   
 - Headphones:
   - [SteelSeries Arctis Nova 7 Wireless](https://cn.steelseries.com/gaming-headsets/arctis-nova-7)
-  - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with USB-C charging case (2nd-generation)
+  - [Apple Airpods Pro](https://www.apple.com/airpods-pro/) with USB-C charging case (3rd-generation)
 
 - Consoles:
   - [SONY Playstation 5](https://playstation.com)
