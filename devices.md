@@ -2,10 +2,10 @@
 
 - Phone: [Apple iPhone 16 Pro Max](https://www.apple.com/iphone-16-pro/) White Titanium(256GB)
 
-- Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Space Black(M4 256GB)
+- Tablet: [Apple 11'' iPad Pro](https://www.apple.com/ipad-pro/) Space Black(M5 256GB)
 
 - Desktop:
-  - [Mac mini](https://www.apple.com/mac-mini/) (M4 24GB RAM + 512GB SSD)
+  - [MacBook Pro](https://www.apple.com/macbook-pro/) (M5Pro 48GB RAM + 1TB SSD)
     - Apple Magic Trackpad & Keyboard
     - [Lecoo M2721PL](https://item.m.jd.com/product/10062746266185.html) 27''(4K@60Hz HDR400)
   - [ASUS PRIME X870-P WIFI D5](https://www.asus.com/motherboards-components/motherboards/prime/prime-x870-p-wifi/)
@@ -17,7 +17,7 @@
       - PREDATOR N7000 @PCIe 4.0 1TB
       - WD_BLACK SN850 @PCIe 4.0 1TB
       - SSD(USB4): WD_BLUE SN580 2TB@40Gbps
-    - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Black
+    - Mouse: [Razer Viper V3 Pro](https://www.razer.com/en-us/gaming-mice/razer-viper-v3-pro) Esports Green Edition
     - Keyboard: [NuPhy Field75 HE](https://nuphy.com/collections/he-keyboards/products/nuphy-field75-he-magnetic-switch-gaming-keyboard?variant=41482716938349) Magnetic White Switch
     - Monitor: SANC OM32UPro 32''(4K@240Hz HDR400 True Black)
   
@@ -31,5 +31,6 @@
     - [Dualsense Edge wireless controller](https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller)
   - [Nintendo Switch 2](https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/)
     - [Nintendo Switch 2 Pro Controller](https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/)
+    - [SanDisk microSD Express Card](https://store-jp.nintendo.com/item/hardware-accessory/VM_BEE_A_SD01A)(256GB for Nintendo Switch 2)
 
 - Wearable: [Apple Watch Ultra 2](https://apple.com/apple-watch-ultra-2) 49mm Natural Titanium
